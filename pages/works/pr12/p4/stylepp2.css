@@ -1,0 +1,60 @@
+h1 {
+
+    font-size: 24px;
+}
+
+h2 {
+
+    font-size: 20px;
+}
+
+h3 {
+
+    font-size: 18px;
+}
+
+p {
+    font-style: normal;
+    font-size: 16px;
+}
+
+
+body {
+    background-color: rgb(255, 225, 225);
+}
+
+ul li {
+    display: inline-block;
+}
+ul{
+    background-color: rgb(175, 240, 224);
+}
+li {
+    padding: 10px;
+}
+
+
+
+main {
+    max-width: 960px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    gap: 3%;
+}
+
+@media screen and (max-width: 800px) {
+    .content {
+        width: 100%;
+    }
+    aside {
+        width: 100%;
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .side-block {
+        width: 44%;
+        padding: 2%;
+    }
+}

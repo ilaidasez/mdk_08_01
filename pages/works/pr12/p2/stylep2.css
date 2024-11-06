@@ -1,0 +1,70 @@
+* {
+	padding:0; margin:0;
+}
+
+p, h1 {
+	margin:0 0 30px 0;
+}
+
+.bb {
+	max-width:900px; margin:0 auto; padding:0 30px;
+}
+
+.back {
+	display: block;
+	max-width: 100%;
+	align-content: center;
+}
+
+.lo {
+	float: right;
+	max-width: 100%;
+	min-width: 100px;
+	margin: 5px;
+}
+
+
+.back {
+	padding: 10px;
+}
+
+.lo {
+	padding: 10px;
+}
+
+
+
+h1 {
+
+    font-size: 24px;
+}
+
+h2 {
+
+    font-size: 20px;
+}
+
+h3 {
+
+    font-size: 18px;
+}
+
+p {
+    font-style: normal;
+    font-size: 16px;
+}
+
+
+body {
+    background-color: rgb(255, 225, 225);
+}
+
+ul li {
+    display: inline-block;
+}
+ul{
+    background-color: rgb(175, 240, 224);
+}
+li {
+    padding: 10px;
+}
