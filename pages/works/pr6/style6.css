@@ -1,0 +1,33 @@
+h1 {
+
+    font-size: 24px;
+}
+
+h2 {
+
+    font-size: 20px;
+}
+
+h3 {
+
+    font-size: 18px;
+}
+
+p {
+    font-style: italic;
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(255, 225, 225);
+}
+
+ul li {
+    display: inline-block;
+}
+ul{
+    background-color: rgb(175, 240, 224);
+}
+li {
+    padding: 10px;
+}
