@@ -1,0 +1,181 @@
+h1 {
+
+    font-size: 24px;
+}
+
+h2 {
+
+    font-size: 20px;
+}
+
+h3 {
+
+    font-size: 18px;
+}
+
+p {
+    font-style: normal;
+    font-size: 16px;
+}
+
+
+body {
+    background-color: rgb(255, 225, 225);
+}
+
+ul li {
+    display: inline-block;
+}
+ul{
+    background-color: rgb(175, 240, 224);
+}
+li {
+    padding: 10px;
+}
+
+
+.content {
+    display: flex;
+}
+
+main{
+    width: 70%;
+}
+
+section{
+    width: 30%;
+}
+
+
+.prew {
+
+    width: 200px;
+    height: 100px;
+
+}
+
+.new1 {
+
+    background: url("../img/square_1280_6acde59201dde70f6a4aed70696f33e6.png");
+    
+    background-size: cover;
+
+}
+
+.new2 {
+
+    background: url("../img/moschneyshee-zemletryasenie-na-yuge-kalifornii-glavnoe-ot-anna-news-na-polden-5-iyulya-2019-video_1.jpg");
+    
+    background-size: cover;
+    
+}
+
+
+.work {
+    display: flex;
+}
+ main {
+    width: 33.3%;
+}
+
+aside {
+    width: 33.3%;
+
+}
+
+aside {
+    width: 33.3%;
+}
+
+
+
+.t1 {
+    text-align: center;
+}
+
+.t2 {
+    text-indent: initial;
+}
+
+.t3 {
+    line-height: normal;
+}
+
+.t4 {
+    vertical-align: top;
+}
+
+.t5 {
+    word-spacing: inherit;
+}
+
+.t6 {
+    letter-spacing: initial;
+}
+
+.t7 {
+    white-space: pre;
+}
+
+.t8 {
+    tab-size: inherit;
+}
+
+.t9 {
+    text-transform: uppercase;
+}
+
+.t10 {
+    direction: ltr;
+}
+
+
+
+
+#byzantium {
+    unicode-bidi: bidi-override;
+}
+
+#lilac {
+    text-decoration: underline;
+}
+
+#amethyst {
+    quotes: none;
+}
+
+#iris {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mauve {
+    font-style: oblique;
+}
+
+#royal_purple {
+    font-variant: small-caps;
+}
+
+#periwinkle {
+    font-weight: bold;
+}
+
+#thistle {
+    font-size: xx-small;
+}
+
+#plum {
+    color: plum;
+}
+
+#wisteria {
+    font-size: xx-large;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+#lavender {
+    font-style: italic;
+    color: lavender;
+    font-variant: small-caps;
+}

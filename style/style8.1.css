@@ -1,0 +1,188 @@
+header ul  {
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+}
+
+.line li {
+    display: inline-block;
+    margin: 20px;
+    padding: 15px;
+    background-color: pink;
+}
+
+.links a {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.blocks div {
+    display: inline;
+    margin: 20px;
+    padding: 15px;
+    background-color: rgb(255, 30, 67);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.blocks {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.blocks .non {
+    display: none;
+}
+
+.links-markers a {
+    display: list-item;
+    margin: 0px;
+    padding: 15px;
+    width: 150px;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+.post1 .image {
+    float: left;
+    content: url(img/54bbdc29-a7b0-4d0c-8b1b-e0e5cef75c6e.jpg);
+}
+
+
+
+h1 {
+
+    font-size: 24px;
+}
+
+h2 {
+
+    font-size: 20px;
+}
+
+h3 {
+
+    font-size: 18px;
+}
+
+p {
+    font-style: normal;
+    font-size: 16px;
+}
+
+
+body {
+    background-color: rgb(255, 225, 225);
+}
+
+.am ul li {
+    display: inline-block;
+}
+.am ul {
+    background-color: rgb(175, 240, 224);
+}
+.am li {
+    padding: 10px;
+}
+
+
+
+
+
+
+.wra {
+    width: 60%;
+    margin: 0;
+}
+main {
+    border: 3px solid rgb(175, 240, 224);
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+li {
+    display: inline-block;
+}
+
+
+main ul {
+    background: rgb(175, 240, 224);
+}
+main li, main li a {
+    display: inline-block;
+}
+main li a  {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px;
+}
+main li a:hover {
+    background-color: aliceblue;
+    color: rgb(175, 240, 224);
+}
+
+* {
+    color: black;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 33px;
+    text-align: justify;
+    margin: 0;
+    font-size: 17px;
+}
+
+p a {
+    font-weight: bold;
+}
+
+footer nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding: 0 10px;
+}
+
+footer li a:hover {
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+h1, h2 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+    line-height: 33px;
+    text-align: justify;
+    margin: 0;
+    font-size: 17px;
+    padding: 0 10px;
+}

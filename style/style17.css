@@ -1,0 +1,187 @@
+header {
+    background-image: linear-gradient(75.91deg, 
+    rgba(50, 34, 67, 0.8) 15.12%, rgba(50, 34, 67, 0) 95.53%);
+    background-image: url(../img/dty.jfif);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+.p {
+    position: relative;
+    left: 25px;
+    top: 80px;
+}
+
+.o {
+    position: relative;
+    left: 85%;
+    top: 60px;
+}
+
+.i {
+    position: relative;
+    left: 90%;
+    top: 2%;
+}
+
+.u {
+    position: relative;
+    left: 75%;
+    top: 35%;
+}
+
+.y {
+    font-size: 32px;
+    position: relative;
+    left: 25px;
+    top: -100px;
+    color: aliceblue;
+}
+
+.t {
+    font-size: 24px;
+    position: relative;
+    left: 45px;
+    top: -95px;
+    color: aliceblue;
+}
+
+.r {
+    font-size: 24px;
+    position: relative;
+    left: 225px;
+    top: -145px;
+    color: aliceblue;
+}
+
+.e {
+    position: relative;
+    left: 210px;
+    top: -155px;
+}
+
+.w {
+    position: relative;
+    left: 20px;
+    top: -250px;
+}
+
+.a {
+    font-size: 28px;
+    position: relative;
+    left: 150px;
+    top: -370px;
+}
+
+.s {
+    font-size: 20px;
+    position: relative;
+    left: 150px;
+    top: -395px;
+}
+
+.d {
+    font-size: 28px;
+    position: relative;
+    left: 90%;
+    top: -150%;
+}
+
+.f {
+    position: relative;
+    left: 10%;
+    top: -150%;
+}
+
+.g {
+    position: relative;
+    left: 55%;
+    top: -251.5%;
+}
+
+.h {
+    position: relative;
+    left: 10%;
+    top: -250%;
+}
+
+.h {
+    border: 20;
+    border-radius: 20px;
+    border-radius: 20px;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+
+.pp {
+    position: relative;
+    left: 10%;
+    top: -250%;
+}
+
+.oo {
+    position: relative;
+    left: 16%;
+    top: -265%;
+}
+
+.ii {
+    position: relative;
+    left: 22%;
+    top: -280%;
+}
+
+
+/*вторая*/
+
+.q {
+    position: relative;
+    left: 0%;
+    top: -250%;
+}
+
+.j {
+    font-size: 28px;
+    position: relative;
+    left: 10%;
+    top: -290%;
+}
+
+.k {
+    font-size: 20px;
+    position: relative;
+    left: 10%;
+    top: -298%;
+}
+
+.l {
+    position: relative;
+    left: 10%;
+    top: -298%;
+}
+
+.z {
+    font-size: 28px;
+    position: relative;
+    left: 90%;
+    top: -520%;
+}
+
+.zz {
+    position: relative;
+    left: 10%;
+    top: -320%;
+}
+
+.xx {
+    position: relative;
+    left: 16%;
+    top: -335%;
+}
+
+.cc {
+    position: relative;
+    left: 22%;
+    top: -350%;
+}
